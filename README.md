@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is **Felipe**. I'm always trying to improve my code skills somehow. Recently I started to study Backend with JavaScript, Node and Express on FreeCodeCamp. 
+:monocle_face:	<br><br>
+
+Here are my certificates so far: :nerd_face:	<br>
+
+[6.00x: Introduction to Computer Science and Programming](https://s3.amazonaws.com/verify.edx.org/downloads/594658e538a741b29060d34b00c56b77/Certificate.pdf) (with Python);
+
+[Problem Solving (Basic)](https://www.hackerrank.com/certificates/b151fa5e93cf) (with JS);
+
+
 <!--
 **felipedeaquino/felipedeaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
