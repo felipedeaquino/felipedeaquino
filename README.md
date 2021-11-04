@@ -6,9 +6,9 @@
 
 My projects:
 
-&#128293; [URL Shortener Microservice](https://replit.com/@felipedeaquino/boilerplate-project-urlshortener) - Replit <br>
-[Request Header Parser Microservice](https://replit.com/@felipedeaquino/boilerplate-project-headerparser) - Replit <br>
-[Timestamp Microservice](https://replit.com/@felipedeaquino/boilerplate-project-timestamp) - Replit <br>
+&#128293; [URL Shortener Microservice](https://github.com/felipedeaquino/freeCodeCamp/tree/master/project-urlshortener) available on Replit - [URL shortener](https://replit.com/@felipedeaquino/boilerplate-project-urlshortener) <br>
+[Request Header Parser Microservice](https://github.com/felipedeaquino/freeCodeCamp/tree/master/project-headerparser) - available on Replit - [Headerparser](https://replit.com/@felipedeaquino/boilerplate-project-headerparser) <br>
+[Timestamp Microservice](https://github.com/felipedeaquino/freeCodeCamp/tree/master/project-timestamp) - available on Replit - [Timestamp](https://replit.com/@felipedeaquino/boilerplate-project-timestamp) <br>
 
 ------------
 
