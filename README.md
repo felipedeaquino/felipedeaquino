@@ -3,6 +3,15 @@
 #### My name is **Felipe**. I'm always trying to improve my code skills somehow. Recently I started to study Backend with JavaScript, Node and Express on FreeCodeCamp. 
 :monocle_face:
 ------------
+
+My projects:
+
+&#128293; [URL Shortener Microservice](https://replit.com/@felipedeaquino/boilerplate-project-urlshortener) - Replit <br>
+[Request Header Parser Microservice](https://replit.com/@felipedeaquino/boilerplate-project-headerparser) - Replit <br>
+[Timestamp Microservice](https://replit.com/@felipedeaquino/boilerplate-project-timestamp) - Replit <br>
+
+------------
+
 Here are my certificates so far: :nerd_face:	<br>
 
 * [6.00x: Introduction to Computer Science and Programming](https://s3.amazonaws.com/verify.edx.org/downloads/594658e538a741b29060d34b00c56b77/Certificate.pdf) (with <img src="https://img.icons8.com/color/20/000000/python--v1.png"/>);
@@ -10,7 +19,7 @@ Here are my certificates so far: :nerd_face:	<br>
 * [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b151fa5e93cf) (with <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/>);
 ------------
 
-Do you want to check my [freeCodeCamp](http://freecodecamp.org/) journey too? Click [here](https://github.com/felipedeaquino/freeCodeCamp)!
+Do you want to check my [freeCodeCamp](http://freecodecamp.org/) journey? Click [here](https://github.com/felipedeaquino/freeCodeCamp)!
 
 You can find me on my [LinkedIn profile](https://www.linkedin.com/in/felipedeaquino/) too! 
 
