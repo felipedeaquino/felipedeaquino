@@ -16,6 +16,8 @@ Here are my certificates so far: :nerd_face:	<br>
 
 * [6.00x: Introduction to Computer Science and Programming](https://s3.amazonaws.com/verify.edx.org/downloads/594658e538a741b29060d34b00c56b77/Certificate.pdf) (with <img src="https://img.icons8.com/color/20/000000/python--v1.png"/>);
 
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fccb97627b8-843a-4db4-8a89-e17e7f1903b7/javascript-algorithms-and-data-structures);
+
 * [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b151fa5e93cf) (with <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/>);
 ------------
 
