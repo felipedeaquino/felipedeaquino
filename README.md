@@ -1,41 +1,46 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h3 align="center">Backend Developer | ML Enthusiast </h3>
 
-## My name is **Felipe**. I'm always trying to improve my code skills somehow. I work with back-end with NodeJS 🧐
+---
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+## 🚀 About Me
 
-- 💰 I’m currently working on NodeJS applications with AdonisJS and NestJS, using MySQL and MongoDB;
+- 🏗️ Backend developer with experience in building scalable, resilient, and high-performance systems.
+- 🔭 Currently working with **Node.js**, using **AdonisJS**, **NestJS**, and relational and non-relational databases.
+- 🏦 Strong background working on critical systems in fintech, handling billions in transactions.
+- 🧠 Exploring **Python** for data analysis and machine learning.
+- 🔧 Skilled in system refactoring, API integrations, and maintenance of legacy systems with high data throughput.
+- ⚡ Fun fact: I was a journalist and a math student before becoming a developer.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
-- 🌱 I’m currently learning:
-PostgreSQL and Kotlin!
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+**Languages & Frameworks:**  
+Node.js (JavaScript/TypeScript), AdonisJS, NestJS, Express
 
-- 🔭 I like to play with Python on Kaggle too!
-- ⚡ Fun fact: I was previously a journalist!
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, Redis
 
-**You can find me on**:
+**DevOps & Tools:**  
+Docker, Git, GitHub, Bitbucket
+
+**Architecture:**  
+REST APIs, GraphQL, Microservices, Event-driven systems
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedeaquino&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipedeaquino/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/felipe_puziol)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/felipe_puziol)
 
-<!--
-**felipedeaquino/felipedeaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
