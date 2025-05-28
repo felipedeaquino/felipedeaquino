@@ -30,14 +30,6 @@ REST APIs, GraphQL, Microservices, Event-driven systems
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedeaquino&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipedeaquino/)
