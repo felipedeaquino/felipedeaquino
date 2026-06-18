@@ -18,9 +18,9 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-Node.js (JavaScript/TypeScript), AdonisJS, NestJS, Express </b>
-Python (PySpark)</b>
-SAS (Data Integration Studio, Enterprise Guide)
+- Node.js (JavaScript/TypeScript), AdonisJS, NestJS, Express
+- Python (PySpark)</b>
+- SAS (Data Integration Studio, Enterprise Guide)
 
 **Databases:**  
 PostgreSQL, MySQL, Oracle, Netezza, MariaDB, MongoDB, Redis
